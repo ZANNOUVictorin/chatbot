@@ -21,7 +21,7 @@
         ["Quel est votre nom ? Je serais ravi de vous connaître.", "Dites-moi en plus sur vous."]
       ],
       "utilisateur": [
-        ["Je m'appelle Alice.", "J'aime beaucoup les nouvelles technologies.", "Je suis développeuse."]
+        ["Je m'appelle Alice.", "J'aime beaucoup les nouvelles technologies.", "."]
       ]
     },
     {
