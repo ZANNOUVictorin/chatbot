@@ -1,0 +1,91 @@
+    [
+    {
+      "bot": [
+        ["Bonjour ! Comment puis-je vous aider aujourd'hui ?"]
+      ],
+      "utilisateur": [
+  
+        ["Salut ! J’ai besoin d’aide pour comprendre vos services.","Oui, j’ai une question sur votre service d'assistance.", "Peux-tu m'expliquer comment ça fonctionne en détail ?"]
+      ]
+    },
+    {
+      "bot": [
+        ["Merci de votre retour ! Je suis ravi de pouvoir vous aider.", "Je suis ici pour ça."]
+      ],
+      "utilisateur": [
+        ["Merci pour votre aide, c’est super !", "J'ai entendu parler de vos offres."]
+      ]
+    },
+    {
+      "bot": [
+        ["Quel est votre nom ? Je serais ravi de vous connaître.", "Dites-moi en plus sur vous."]
+      ],
+      "utilisateur": [
+        ["Je m'appelle Alice.", "J'aime beaucoup les nouvelles technologies.", "Je suis développeuse."]
+      ]
+    },
+    {
+      "bot": [
+        ["Avez-vous d'autres questions ou des préoccupations ?", "Je suis là pour vous aider, ne vous gênez pas."]
+      ],
+      "utilisateur": [
+        ["Non, c'est bon pour l'instant, merci !", "Je vais réfléchir à vos suggestions."]
+      ]
+    },
+    {
+      "bot": [
+        ["Avez-vous déjà utilisé notre service auparavant ?", "Je peux vous donner un aperçu des nouvelles fonctionnalités."]
+      ],
+      "utilisateur": [
+        ["Non, c'est ma première fois.", "Je veux en savoir plus sur la configuration initiale."]
+      ]
+    },
+    {
+      "bot": [
+        ["Nous avons des tutoriels vidéo pour vous aider à démarrer.", "Souhaitez-vous un lien vers ces ressources ?"]
+      ],
+      "utilisateur": [
+        ["Oui, cela m'intéresse beaucoup.", "Je vais regarder les tutoriels."]
+      ]
+    },
+    {
+      "bot": [
+        ["Si vous avez des questions spécifiques sur le processus d'inscription, je suis là pour ça."]
+      ],
+      "utilisateur": [
+        ["D'accord, je vais vous poser des questions au fur et à mesure.", "Merci pour votre aide."]
+      ]
+    },
+    {
+      "bot": [
+        ["Nous avons aussi un chat en direct si vous avez besoin d'aide immédiate.", "Je peux vous mettre en relation avec un agent."]
+      ],
+      "utilisateur": [
+        ["Oui, cela pourrait être utile à l'avenir.", "Je préfère cette option si je suis pressé."]
+      ]
+    },
+    {
+      "bot": [
+        ["Ravi de vous avoir aidé aujourd'hui !", "Si vous avez besoin d'aide à l'avenir, n'hésitez pas à revenir."]
+      ],
+      "utilisateur": [
+        ["Merci, vous aussi !", "À la prochaine !"]
+      ]
+    },
+    {
+      "bot": [
+        ["Avez-vous besoin d'assistance pour la configuration ?", "Nous avons des guides détaillés pour cela."]
+      ],
+      "utilisateur": [
+        ["Oui, je vais avoir besoin d'aide pour la configuration.", "Je vais jeter un œil à la communauté aussi."]
+      ]
+    },
+    {
+      "bot": [
+        ["Si vous avez des retours à nous faire, n'hésitez pas !", "Nous aimons toujours entendre ce que nos utilisateurs pensent."]
+      ],
+      "utilisateur": [
+        ["D'accord, je vous ferai savoir si j'ai des commentaires."]
+      ]
+    }
+  ]
